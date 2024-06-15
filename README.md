@@ -1,4 +1,3 @@
-![image](https://user-images.githubusercontent.com/123810454/234712946-f5a655db-979b-45ea-98a5-379515534c48.png)
 ![image](https://github.com/laibaahsan27/my/blob/c430ac2194b791a03389cad94673a0084520d45d/Component%2011.png?raw=true)
 
 <h3 align="center">A passionate developer from India</h3>
